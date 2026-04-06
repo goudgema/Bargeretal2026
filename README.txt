@@ -1,4 +1,4 @@
-This repository is up to date as of 2026/04/05, created by Marc Goudge for the submission of Barger et at 2026.
+This repository is up to date as of 2026/04/05, created by Marc Goudge for the submission of Barger et al 2026.
 Contact for Marc: marc (dot) goudge [at] yale (dot) edu
 Corresponding author contact: shirin (dot) bahmanyar [at] yale (dot) edu
 
